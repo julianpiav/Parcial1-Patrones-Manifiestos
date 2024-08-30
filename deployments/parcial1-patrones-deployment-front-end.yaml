@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: julianpi2003/parcial1-patrones:frontend
+        image: julianpi2003/parcial1-patrones-front:frontend
         ports:
         - containerPort: 3000
